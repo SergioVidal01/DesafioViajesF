@@ -75,6 +75,29 @@ body {
     justify-content: space-around;
 }
 
+.testimonials__list {
+    display: flex;
+    
+   
+}
+.testimonials__text, .testimonials__author {
+   text-align: center; 
+
+}
+
+.testimonials__image {
+position: relative;   
+left: 37%; 
+border-radius: 77px;
+width: 80px;
+height: 80px;
+
+
+
+
+
+}
+
 
 
 
