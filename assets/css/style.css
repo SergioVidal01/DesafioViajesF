@@ -1,0 +1,43 @@
+body {
+    background-color: #2c2f33; /* Color de fondo oscuro */
+    margin: 0px 20px 0 20px;
+    color: white;
+  }
+  .navbar {
+
+ 
+    width: 100%; /* Asegura que ocupe todo el ancho */
+    border-radius: 0; /* Sin bordes redondeados */
+  }
+
+  .carousel {
+    border-radius: 10px;
+    overflow: hidden; /* Asegura que las imágenes no se desborden */
+  }
+
+  #imageNavbar {
+
+    width: 30px;  
+}
+#seccionCard
+{
+    align-items:center
+}
+#seccionCard img {
+   height: 130px;
+  
+   
+}
+
+.card-title, .card-text {
+    color: white;
+}
+
+.card-body {
+    background-color:#00A9AF;
+}
+
+.btn {
+    background-color:#00A9AF;
+    color: white;
+}
